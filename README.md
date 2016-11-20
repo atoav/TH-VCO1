@@ -10,6 +10,8 @@ Look at Tom's Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
 
 ## Changes
 
+![https://github.com/atoav/TH-VCO1/blob/master/Panel_Renders/VCO1-render3.jpg]()
+
 Compared to Tom's Layout some things changed:
 
 - the complete panel layout has been changed for a fancier (and imho a bit more easier to grasp) layout
@@ -18,3 +20,4 @@ Compared to Tom's Layout some things changed:
 - All Resistor Pads have been swapped for square pads
 - The PWM CV Attenuator Pot is now a 9mm Alpha trimmer (the small ones with the plastic head, commonly used for attenuverters)
 - Cleaned up traces and silkscreen where necessary
+
