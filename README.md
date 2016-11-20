@@ -1,15 +1,20 @@
 # TH-VCO1
 
-This is a Eurorack Layout for the [Thomas Henry VCO 1](http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator. 
+This is a fork based on [the Eurorack Layout Tom Whitwell]( http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator) published for the [Thomas Henry VCO 1](http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator.
 
-**NB: All rights to this design rest with Thomas Henry. I do not claim or grant any copyright or license to this design. I am not selling any boards. I have not been able to contact Thomas, and will take this page down if he asks me to.** 
+**NB: All rights to this design rest with Thomas Henry. I do not claim or grant any copyright or license to this design. I am not selling any boards. I will take this page down if he asks me to.** 
 
-I made very minor changes from Thomas' original to make it work on 12v - detailed here: https://muffwiggler.com/forum/viewtopic.php?t=49671
+The only other non-standard components are a [2K 3300ppm Tempco](https://www.thonk.co.uk/shop/tempco-resistor-anakeohm-1-3300ppm-x3/) as R2, and a Polystyrene 1nf cap as C3.  
 
-This layout is for a modern LM13700 OTA replacing the old 3080, with a That 340 chip providing the matched transistor pairs. The only other non-standard components are a [2K 3300ppm Tempco](https://www.thonk.co.uk/shop/tempco-resistor-anakeohm-1-3300ppm-x3/) as R2, and a Polystyrene 1nf cap as C3.  
+Look at Tom's Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
 
-It all works very well, fantastic FM, nice looking and sounding sines. I was able to trim it to 4-5 octaves before getting bored. I haven't used multi-turn trimmers, so it might be harder to trim more accurately. On my second build I haven't trimmed anything, and it works beautifully for my needs. 
+## Changes
 
-Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
+Compared to Tom's Layout some things changed:
 
-
+- the complete panel layout has been changed for a fancier (and imho a bit more easier to grasp) layout
+- The board-pot has been completely rerouted and is now a single layer board (the bottom layer is a nice, undivided ground plane)
+- Two 1x5 Header Pin Strips have been added (this could potentially help to save the screws and add mechanical stability)
+- All Resistor Pads have been swapped for square pads
+- The PWM CV Attenuator Pot is now a 9mm Alpha trimmer (the small ones with the plastic head, commonly used for attenuverters)
+- Cleaned up traces and silkscreen where necessary
