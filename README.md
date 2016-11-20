@@ -1,6 +1,6 @@
 # TH-VCO1
 
-This is a fork based on [the Eurorack Layout Tom Whitwell]( http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator) published for the [Thomas Henry VCO 1](http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator.
+This is a fork based on [the Eurorack Layout Tom Whitwell]( http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator published for the [Thomas Henry VCO 1](http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator.
 
 **NB: All rights to this design rest with Thomas Henry. I do not claim or grant any copyright or license to this design. I am not selling any boards. I will take this page down if he asks me to.** 
 
@@ -10,7 +10,7 @@ Look at Tom's Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
 
 ## Changes
 
-![https://github.com/atoav/TH-VCO1/blob/master/Panel_Renders/VCO1-render3.jpg]()
+![](https://github.com/atoav/TH-VCO1/blob/master/Panel_Renders/VCO1-render3.jpg)
 
 Compared to Tom's Layout some things changed:
 
