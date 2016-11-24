@@ -11,7 +11,7 @@ Look at Tom's Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
 ## Changes
 
 
-<img src="https://github.com/atoav/TH-VCO1/blob/master/Panel_Renders/VCO1-render3.jpg" height="50vh">
+<img src="https://github.com/atoav/TH-VCO1/blob/master/Panel_Renders/VCO1-render3.jpg" height="500">
 
 
 
